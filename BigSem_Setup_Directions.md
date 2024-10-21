@@ -29,16 +29,7 @@ To get started:
    ```bash
    pip install numpy pandas scikit-learn rdflib SPARQLWrapper sparql-dataframe pyspark
    ```
-
-   This command installs:
-   - **Numpy**: For numerical computations
-   - **Pandas**: For data manipulation and analysis
-   - **Scikit-Learn**: For machine learning and data processing
-   - **RDFLib**: For working with RDF data
-   - **SPARQLWrapper**: For querying RDF data via SPARQL
-   - **sparql-dataframe**: For converting SPARQL results to pandas DataFrames
-   - **PySpark**: For distributed computing with Apache Spark
-
+   
 ## Step 2: Install Apache Spark
 
 1. **Download Apache Spark**:
