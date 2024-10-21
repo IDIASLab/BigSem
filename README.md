@@ -38,7 +38,27 @@ The **BigSem** tutorial provides an overview of scalable and distributed analyti
 
 ## 📦 How to Access Tutorial Materials
 
-All materials, including code, datasets, and slides, can be found on the [GitHub repository](#) for this tutorial. Please ensure you have completed the setup instructions before the tutorial starts.
+The GitHub repository for this tutorial is organized to help you easily navigate through the materials. Below is the structure of the repository:
+
+### Explanation of Contents
+
+1. **PDF Documents**
+   - `intro.pdf`: This file introduces the tutorial, including the motivation and goals.
+   - `module1.pdf`: Details Module 1, covering Python libraries like Numpy, Pandas, and Scikit-Learn.
+   - `module2.pdf`: Details Module 2, focusing on libraries for semantic data access such as RDFLib, SPARQLWrapper, and Sparql-dataframe.
+   - `module3.pdf`: Details Module 3, highlighting semantic data analytic engines like SANSA Stack and SparkKG-ML.
+   - `conclusion.pdf`: A summary document wrapping up the key points of the tutorial.
+
+2. **`datasets/` Folder**
+   - **`linked_movie_db.csv`**: Dataset for hands-on exercises in Module 3, specifically demonstrating scalable analytics with SANSA Stack.
+   - **`recipe_kg.csv`**: Dataset for the hands-on example in Module 3, focusing on using SparkKG-ML for semantic data processing.
+
+3. **`hands-on-examples/` Folder**
+   - **`module1_notebook.ipynb`**: This Jupyter Notebook contains practical examples demonstrating how to use Python libraries such as Numpy, Pandas, and Scikit-Learn for data analytics.
+   - **`module2_notebook.ipynb`**: Provides hands-on examples using RDFLib, SPARQLWrapper, and Sparql-dataframe to access and query semantic data.
+   - **`module3_notebook.ipynb`**: Includes practical exercises to work with the SANSA Stack and SparkKG-ML frameworks, showing how to perform scalable analytics on semantic data.
+
+With this structure, you can easily follow the tutorial, refer to the PDF documents for detailed explanations, and use the datasets and notebooks for hands-on practice. We hope this setup makes it easy to learn and explore scalable semantic data analytics!
 
 ## 🕒 Schedule
 
