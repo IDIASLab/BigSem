@@ -51,8 +51,8 @@ The GitHub repository for this tutorial is organized to help you easily navigate
    - `conclusion.pdf`: A summary document wrapping up the key points of the tutorial.
 
 3. **`datasets/` Folder**
-   - **`linked_movie_db.csv`**: Dataset for hands-on exercises in Module 3, specifically demonstrating scalable analytics with SANSA Stack.
-   - **`recipe_kg.csv`**: Dataset for the hands-on example in Module 3, focusing on using SparkKG-ML for semantic data processing.
+   - **`linked_movie_db`**: Dataset for hands-on exercises in Module 3, specifically demonstrating scalable analytics with SANSA Stack.
+   - **`recipe_kg`**: Dataset for the hands-on example in Module 3, focusing on using SparkKG-ML for semantic data processing.
 
 4. **`hands-on-examples/` Folder**
    - Includes notebook examples for the tutorial.
