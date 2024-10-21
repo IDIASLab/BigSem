@@ -38,7 +38,7 @@ The **BigSem** tutorial provides an overview of scalable and distributed analyti
 
 ## 📦 How to Access Tutorial Materials
 
-The GitHub repository for this tutorial is organized to help you easily navigate through the materials. Below is the structure of the repository:
+The GitHub repository for this tutorial is organized to help you easily navigate through the materials. Please refer to `setup_directions.md` for detailed setup instructions. Below is the structure of the repository:
 
 ### Explanation of Contents
 
@@ -55,9 +55,7 @@ The GitHub repository for this tutorial is organized to help you easily navigate
    - **`recipe_kg.csv`**: Dataset for the hands-on example in Module 3, focusing on using SparkKG-ML for semantic data processing.
 
 4. **`hands-on-examples/` Folder**
-   - **`module1_notebook.ipynb`**: This Jupyter Notebook contains practical examples demonstrating how to use Python libraries such as Numpy, Pandas, and Scikit-Learn for data analytics.
-   - **`module2_notebook.ipynb`**: Provides hands-on examples using RDFLib, SPARQLWrapper, and Sparql-dataframe to access and query semantic data.
-   - **`module3_notebook.ipynb`**: Includes practical exercises to work with the SANSA Stack and SparkKG-ML frameworks, showing how to perform scalable analytics on semantic data.
+   - Includes notebook examples for the tutorial.
 
 With this structure, you can easily follow the tutorial, refer to the PDF documents for detailed explanations, and use the datasets and notebooks for hands-on practice. We hope this setup makes it easy to learn and explore scalable semantic data analytics!
 
