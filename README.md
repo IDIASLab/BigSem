@@ -30,11 +30,11 @@ The **BigSem** tutorial provides an overview of scalable and distributed analyti
 ## 🗂️ Tutorial Outline
 1. **Introduction, Overview, Setup Instructions**
 2. **Module 1: Libraries for Analytics and ML in Python**
-   - Numpy, Pandas, Scikit-Learn
+   - ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 3. **Module 2: Libraries for Semantic Data Access**
-   - RDFLib, SPARQLWrapper, Sparql-dataframe
+   - ![RDFLib](https://img.shields.io/badge/RDFLib-004466?style=flat&logo=semantic-web&logoColor=white) ![SPARQLWrapper](https://img.shields.io/badge/SPARQLWrapper-0A66C2?style=flat&logo=sparql&logoColor=white) ![Sparql-dataframe](https://img.shields.io/badge/Sparql--DataFrame-00BFFF?style=flat&logo=data&logoColor=white)
 4. **Module 3: Semantic Data Analytic Engines and Frameworks**
-   - SANSA Stack, SparkKG-ML
+   - ![SANSA Stack](https://img.shields.io/badge/SANSA--Stack-FFA500?style=flat&logo=apache-spark&logoColor=white) ![SparkKG-ML](https://img.shields.io/badge/SparkKG--ML-FF5722?style=flat&logo=big-data&logoColor=white)
 
 ## 📦 How to Access Tutorial Materials
 
