@@ -67,4 +67,4 @@ With this structure, you can easily follow the tutorial, refer to the PDF docume
 
 ## 🎉 Ready to Dive In?
 
-We can’t wait to see you at the tutorial! 🚀 Feel free to connect with us on [GitHub](https://github.com/IDIASLab). Let’s explore the power of scalable semantic data together!
+We can’t wait to see you in Baltimore! 🚀 Meanwhile, feel free to connect with us on [GitHub](https://github.com/IDIASLab). Let’s explore the power of scalable semantic data analytics together!
