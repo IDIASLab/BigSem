@@ -4,14 +4,14 @@
 ![Language](https://img.shields.io/badge/Language-Python%20%7C%20Scala-blueviolet)
 ![Resources](https://img.shields.io/badge/Resources-GitHub-lightgrey)
 
-Welcome to the **BigSem: Big Data Analytics for Semantic Data** tutorial, organized by **Charalampos Chelmis** and **Bedirhan Gergin**. This tutorial will take place on **September 12th at 4 PM** as part of ISWC 2024.
+Welcome to the **BigSem: Big Data Analytics for Semantic Data** tutorial, organized by **Charalampos Chelmis** and **Bedirhan Gergin**. This tutorial will take place on **September 12th at 4 PM** as part of [ISWC 2024](https://iswc2024.semanticweb.org/).
 
 ## 📢 Organizers
 
 - **Charalampos Chelmis**
-  - Assistant Professor, Department of Computer Science, University at Albany, SUNY
-  - Director of the Intelligent Big Data Analytics, Applications, and Systems (IDIAS) Lab
-  - Research interests: Network Science, Big Data analytics
+  - Associate Professor, Department of Computer Science, University at Albany, SUNY
+  - Director of the Intelligent Big Data Analytics, Applications, and Systems [(IDIAS)](https://www.cs.albany.edu/~cchelmis/ideaslab.html) Lab
+  - Research focus: Human-centered AI, Noisy Learning, Semantic Web, Big Data analytics
   - [LinkedIn](https://www.linkedin.com/in/chelmischaralampos/) | [Personal Website](https://www.cs.albany.edu/~cchelmis/)
 
 - **Bedirhan Gergin**
@@ -35,12 +35,13 @@ The **BigSem** tutorial provides an overview of scalable and distributed analyti
    - ![RDFLib](https://img.shields.io/badge/RDFLib-004466?style=flat&logo=semantic-web&logoColor=white) ![SPARQLWrapper](https://img.shields.io/badge/SPARQLWrapper-0A66C2?style=flat&logo=sparql&logoColor=white) ![Sparql-dataframe](https://img.shields.io/badge/Sparql--DataFrame-00BFFF?style=flat&logo=data&logoColor=white)
 4. **Module 3: Semantic Data Analytic Engines and Frameworks**
    - ![SANSA Stack](https://img.shields.io/badge/SANSA--Stack-FFA500?style=flat&logo=apache-spark&logoColor=white) ![SparkKG-ML](https://img.shields.io/badge/SparkKG--ML-FF5722?style=flat&logo=big-data&logoColor=white)
+5. **Discussion and Conclusion**
 
 ## 📦 How to Access Tutorial Materials
 
-The GitHub repository for this tutorial is organized to help you easily navigate through the materials. Please refer to `setup_directions.md` for detailed setup instructions. Below is the structure of the repository:
+This GitHub repository is organized to help you easily navigate through the materials which we will cover during the [tutorial](https://www.cs.albany.edu/~cchelmis/tutorials/iswc/2024/). Please refer to `setup_directions.md` for detailed setup instructions. Below is the structure of the repository:
 
-### Explanation of Contents
+### Contents
 
 1. **PDF Documents**
    - `setup_directions.md`: Explains the necessary steps to prepare the environments for the tutorial.
@@ -66,4 +67,4 @@ With this structure, you can easily follow the tutorial, refer to the PDF docume
 
 ## 🎉 Ready to Dive In?
 
-We can’t wait to see you at the tutorial! 🚀 Feel free to connect with us on [LinkedIn](https://www.linkedin.com) and [GitHub](https://github.com). Let’s explore the power of scalable semantic data together!
+We can’t wait to see you at the tutorial! 🚀 Feel free to connect with us on [GitHub](https://github.com/IDIASLab). Let’s explore the power of scalable semantic data together!
