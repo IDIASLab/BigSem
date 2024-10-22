@@ -43,8 +43,9 @@ This GitHub repository is organized to help you easily navigate through the mate
 
 ### Contents
 
-1. **PDF Documents**
-   - `setup_directions.md`: Explains the necessary steps to prepare the environments for the tutorial.
+- `setup_directions.md`: Explains the necessary steps to prepare the environments for the tutorial.
+
+1. **`slides/` Folder**
    - `intro.pdf`: This file introduces the tutorial, including the motivation and goals.
    - `module1.pdf`: Details Module 1, covering Python libraries like Numpy, Pandas, and Scikit-Learn.
    - `module2.pdf`: Details Module 2, focusing on libraries for semantic data access such as RDFLib, SPARQLWrapper, and Sparql-dataframe.
