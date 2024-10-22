@@ -30,11 +30,16 @@ The **BigSem** tutorial provides an overview of scalable and distributed analyti
 ## 🗂️ Tutorial Outline
 1. **Introduction, Overview, Setup Instructions**
 2. **Module 1: Libraries for Analytics and ML in Python**
-   - ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+   - [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+     [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+     [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 3. **Module 2: Libraries for Semantic Data Access**
-   - ![RDFLib](https://img.shields.io/badge/RDFLib-004466?style=flat&logo=semantic-web&logoColor=white) ![SPARQLWrapper](https://img.shields.io/badge/SPARQLWrapper-0A66C2?style=flat&logo=sparql&logoColor=white) ![Sparql-dataframe](https://img.shields.io/badge/Sparql--DataFrame-00BFFF?style=flat&logo=data&logoColor=white)
+   - [![RDFLib](https://img.shields.io/badge/RDFLib-004466?style=flat&logo=semantic-web&logoColor=white)](https://rdflib.readthedocs.io/)
+     [![SPARQLWrapper](https://img.shields.io/badge/SPARQLWrapper-0A66C2?style=flat&logo=sparql&logoColor=white)](https://rdflib.github.io/sparqlwrapper/)
+     [![Sparql-dataframe](https://img.shields.io/badge/Sparql--DataFrame-00BFFF?style=flat&logo=data&logoColor=white)](https://github.com/lawlesst/sparql-dataframe)
 4. **Module 3: Semantic Data Analytic Engines and Frameworks**
-   - ![SANSA Stack](https://img.shields.io/badge/SANSA--Stack-FFA500?style=flat&logo=apache-spark&logoColor=white) ![SparkKG-ML](https://img.shields.io/badge/SparkKG--ML-FF5722?style=flat&logo=big-data&logoColor=white)
+   - [![SANSA Stack](https://img.shields.io/badge/SANSA--Stack-FFA500?style=flat&logo=apache-spark&logoColor=white)](https://sansa-stack.github.io/)
+     [![SparkKG-ML](https://img.shields.io/badge/SparkKG--ML-FF5722?style=flat&logo=big-data&logoColor=white)](https://github.com/IDIASLab/SparkKG-ML)
 5. **Discussion and Conclusion**
 
 ## 📦 How to Access Tutorial Materials
