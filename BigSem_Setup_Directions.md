@@ -15,6 +15,9 @@ Here are the benefits:
   !pip install pyspark
   ```
 - All Python dependencies can also be installed using the pip commands in a Colab notebook.
+  ```bash
+   !pip install numpy pandas scikit-learn rdflib SPARQLWrapper sparql-dataframe pyspark
+   ```
 - Quick setup, ideal for users who want to skip local configurations.
 
 To get started:
