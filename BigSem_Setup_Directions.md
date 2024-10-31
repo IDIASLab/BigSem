@@ -1,9 +1,11 @@
 
 # 🛠️ Setup Directions for BigSem Tutorial
 
-To get started with the BigSem tutorial, you'll need to set up a few essential tools and libraries. Follow the instructions below to ensure your environment is ready for hands-on exercises.
+To get started with the BigSem tutorial, you'll need to set up a few essential tools and libraries. We have mainly two reiqured setup 1) Python and Spark and 2) SANSA Stack. Follow the instructions below to ensure your environment is ready for hands-on exercises.
 
-## Alternative Setup: Using Google Colab
+# 1) Python and Spark Setup
+
+## Recommended Setup - Google Colab
 
 For an easier and smoother setup, you can run all python examples on **Google Colab**. If you do so you can directly jump to SANSA Setup below. 
 Here are the benefits:
@@ -20,7 +22,8 @@ To get started:
 2. Create a new notebook and follow the instructions for installing required libraries using pip.
 3. Run all examples smoothly without needing a local Spark installation.
 
-## Step 1: Install Python and Required Libraries
+## Local Setup
+### Step 1: Install Python and Required Libraries
 
 1. **Install Python**: Make sure you have Python installed on your system (version 3.7 or higher is recommended). You can download Python from the [official website](https://www.python.org/downloads/).
 
@@ -30,7 +33,7 @@ To get started:
    pip install numpy pandas scikit-learn rdflib SPARQLWrapper sparql-dataframe pyspark
    ```
    
-## Step 2: Install Apache Spark
+### Step 2: Install Apache Spark
 
 1. **Download Apache Spark**:
    - Go to the [Apache Spark download page](https://spark.apache.org/downloads.html).
@@ -54,7 +57,11 @@ To get started:
    python -m pyspark
    ```
 
-## Step 3: Set Up SANSA Stack on Databricks
+# 2) SANSA Stack Setup
+
+## Recommended Setup - Databricks 
+
+We recommend creating a Databricks account beforehand to make it easier to follow along during the tutorial. 
 
 1. **Create a Databricks Account**:
    - Visit the [Databricks website](https://databricks.com/).
@@ -89,12 +96,11 @@ To get started:
    - Navigate to **Data** in the Databricks interface.
    - Click **Add Data** and upload your datasets (e.g., `linked_movie_db.csv` and `recipe_kg.csv`).
 
-
 Please refer to the official SANSA Databricks setup guide for further details [here](https://project-lambda.org/sites/default/files/2019-06/BDA_2019_Lecture_6_Tutorial.pdf).
 
-## SANSA Stack Installation
+## Local Setup
 
-We recommend creating a Databricks account beforehand to make it easier to follow along during the tutorial. If you'd like to set up SANSA Stack locally instead, please refer to the official SANSA Databricks setup guide [here](https://project-lambda.org/sites/default/files/2019-06/BDA_2019_Lecture_6_Tutorial.pdf).
+If you'd like to set up SANSA Stack locally instead, please refer to the official SANSA Databricks setup guide [here](https://project-lambda.org/sites/default/files/2019-06/BDA_2019_Lecture_6_Tutorial.pdf).
 
 ---
 
