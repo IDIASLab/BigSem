@@ -1,7 +1,7 @@
 
 # 🛠️ Setup Directions for BigSem Tutorial
 
-To get started with the BigSem tutorial, you'll need to set up a few essential tools and libraries. We have mainly two reiqured setup 1) Python and Spark and 2) SANSA Stack. Follow the instructions below to ensure your environment is ready for hands-on exercises.
+To get started with the BigSem tutorial, you'll need to set up a few essential tools and libraries. We have mainly two required setup 1) Python and Spark and 2) SANSA Stack. Follow the instructions below to ensure your environment is ready for hands-on exercises.
 
 # 1) Python and Spark Setup
 
