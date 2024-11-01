@@ -4,7 +4,7 @@
 ![Language](https://img.shields.io/badge/Language-Python%20%7C%20Scala-blueviolet)
 ![Resources](https://img.shields.io/badge/Resources-GitHub-lightgrey)
 
-Welcome to the **BigSem: Big Data Analytics for Semantic Data** tutorial, organized by **Charalampos Chelmis** and **Bedirhan Gergin**. This tutorial will take place on **September 12th at 4 PM** as part of [ISWC 2024](https://iswc2024.semanticweb.org/).
+Welcome to the **BigSem: Big Data Analytics for Semantic Data** tutorial, organized by **Charalampos Chelmis** and **Bedirhan Gergin**. This tutorial will take place on **September 12th at 2 PM** as part of [ISWC 2024](https://iswc2024.semanticweb.org/).
 
 ## 📢 Organizers
 
