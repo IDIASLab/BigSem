@@ -99,7 +99,7 @@ We recommend creating a Databricks account beforehand to make it easier to follo
    - Navigate to **Data** in the Databricks interface.
    - Click **Add Data** and upload your datasets (e.g., `linked_movie_db.csv` and `recipe_kg.csv`).
 
-Please refer to the official SANSA Databricks setup guide for further details [here](https://project-lambda.org/sites/default/files/2019-06/BDA_2019_Lecture_6_Tutorial.pdf).
+Please refer to the official SANSA Databricks setup guide for further details [here](https://github.com/SANSA-Stack/SANSA-Databricks/blob/main/SANSA%20through%20Databricks.pdf).
 
 ## Local Setup
 
